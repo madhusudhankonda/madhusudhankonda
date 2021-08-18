@@ -1,4 +1,5 @@
-### Hi there 👋
+### I'm really glad you are here! 👋
+I am Madhu, a software engineer (and author, speaker, mentor..) working in London, UK. 
 
 <!--
 **madhusudhankonda/madhusudhankonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
