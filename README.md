@@ -1,5 +1,6 @@
 ### I'm really glad you are here! 👋
-
+Please browse through my repositories and let me know if I can be of any help.
+## My [Elasticsearch in Action](https://www.manning.com/books/elasticsearch-in-action-second-edition?utm_source=mkonda&utm_medium=affiliate&utm_campaign=book_konda_elasticsearch_7_23_21&a_aid=mkonda&a_bid=edbc50d4) Book
 My upcoming book [Elasticsearch in Action](https://www.manning.com/books/elasticsearch-in-action-second-edition?utm_source=mkonda&utm_medium=affiliate&utm_campaign=book_konda_elasticsearch_7_23_21&a_aid=mkonda&a_bid=edbc50d4) is available for early access!
 
 <!--
