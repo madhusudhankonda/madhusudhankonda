@@ -1,5 +1,6 @@
 ### I'm really glad you are here! 👋
-I am Madhu, a software engineer (and author, speaker, mentor..) working in London, UK. 
+
+My upcoming book [Elasticsearch in Action](https://www.manning.com/books/elasticsearch-in-action-second-edition?utm_source=mkonda&utm_medium=affiliate&utm_campaign=book_konda_elasticsearch_7_23_21&a_aid=mkonda&a_bid=edbc50d4) is available for early access!
 
 <!--
 **madhusudhankonda/madhusudhankonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
