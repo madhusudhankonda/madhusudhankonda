@@ -1,8 +1,10 @@
 ### I'm really glad you are here! 👋
 Please browse through my repositories and let me know if I can be of any help.
 ## My [Elasticsearch in Action](https://www.manning.com/books/elasticsearch-in-action-second-edition?utm_source=mkonda&utm_medium=affiliate&utm_campaign=book_konda_elasticsearch_7_23_21&a_aid=mkonda&a_bid=edbc50d4) Book
-My upcoming book [Elasticsearch in Action](https://www.manning.com/books/elasticsearch-in-action-second-edition?utm_source=mkonda&utm_medium=affiliate&utm_campaign=book_konda_elasticsearch_7_23_21&a_aid=mkonda&a_bid=edbc50d4) is available for early access!
-![Elasticsearch in Action](https://github.com/madhusudhankonda/madhusudhankonda/blob/main/DOTD_NewMEAP_Konda.png)
+My book [Elasticsearch in Action]([https://www.manning.com/books/elasticsearch-in-action-second-edition?utm_source=mkonda&utm_medium=affiliate&utm_campaign=book_konda_elasticsearch_7_23_21&a_aid=mkonda&a_bid=edbc50d4](https://www.manning.com/books/elasticsearch-in-action-second-edition)) is now out!!
+
+![image](https://github.com/madhusudhankonda/madhusudhankonda/assets/1698230/dc0904dc-13cb-435f-847c-81ac0740dfe4)
+
 
 <!--
 **madhusudhankonda/madhusudhankonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
