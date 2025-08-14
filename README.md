@@ -34,13 +34,9 @@ I specialise in Generative AI platforms, AI/ML strategy, Enterprise-scale archit
 ### Publications
 
 - [AI Playbook for Organisations - in writing](https://medium.com/ai-playbook-for-organisations)
-  
 - [Elasticsearch in Action, Second Edition – Manning](https://www.manning.com/books/elasticsearch-in-action-second-edition)
-
 - [All About Java 8 Lambdas And Streams](https://www.amazon.co.uk/All-About-Java-Lambdas-Introducing/dp/1517534585)
-
 - [Four books: Just Spring, Just Spring Integration, Just Spring Data Access and Just Hibernate – O'Reilly](https://www.amazon.co.uk/stores/Madhusudhan-Konda/author/B005IWJ740)
-
 - [Video Course: Java 8 Lambdas and Streams – O’Reilly](https://learning.oreilly.com/course/java-8-lambdas/9781771374743/)
 
 ### Let’s Connect
