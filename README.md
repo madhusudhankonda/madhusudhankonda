@@ -2,7 +2,7 @@ Hi, I’m **Madhusudhan Konda**, welcome to my second best place on earth!
 
 > I don’t just deliver solutions - I create repeatable systems and strategies that scale.”
 
-### AI Strategy & Engineering Leader | Author – Elasticsearch in Action | Trainer • Speaker • Mentor
+### AI Strategy & Engineering Leader | Trainer • Speaker • Mentor | Transforming Enterprises with GenAI, Search & Data Platforms | Engineering Excellence | Search Innovation & Product Engineering
 
 #### I am a visionary hands-on AI Strategy & Engineering Leader, full-stack technologist, thought leader and strategic innovator with over two and a half a decades of experience delivering transformative software and AI solutions for global institutions including EBRD, Credit Suisse, UBS, Deutsche Bank and BP. 
 
@@ -21,8 +21,8 @@ I specialise in Generative AI platforms, AI/ML strategy, Enterprise-scale archit
 ### Key Achievements
 
 - MicroSaaS Product Innovation: Founded and built AI-powered applications including:
-  - klaimly.ai: AI claims automation platform for faster, more accurate claims processing.
-  - kleverpanda.ai: AI-powered document assistant for rapid summarisation, translation, and insights.
+  - https://klaimly.ai: AI claims automation platform for faster, more accurate claims processing.
+  - https://kleverpanda.ai: AI-powered document assistant for rapid summarisation, translation, and insights.
   - Other GenAI Apps: Education bots, recruitment assistants and multi-language knowledge agents for both consumer and enterprise use.
 - Delivered AI-powered decision-support tools such as Bayesian optimisation frameworks, semantic search systems, and predictive analytics platforms.
 - Bot-in-a-Box Framework: Reduced AI chatbot deployment time from months to <24 hours, accelerating enterprise AI adoption at global scale.
